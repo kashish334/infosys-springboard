@@ -1,13 +1,13 @@
 # 🏨 HotelRevAI — AI-Driven Revenue Analysis for Hotels
 
-## 📌 Overview
+## Overview
 HotelRevAI is a data analytics project developed using Power BI to transform raw hotel booking data into actionable business insights. The project focuses on revenue analysis, customer behavior, and demand patterns to support data-driven decision-making in the hospitality industry.
 
 This project was completed as part of an 8-week Infosys Springboard Virtual Internship.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze overall revenue performance and trends
 - Evaluate key KPIs such as ADR, total bookings, and cancellation rate
 - Understand customer behavior across different segments
@@ -17,7 +17,7 @@ This project was completed as part of an 8-week Infosys Springboard Virtual Inte
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source:** Kaggle Hotel Booking Dataset
 - **Records:** ~75,000 bookings
 - **Time Period:** 2015–2017
@@ -34,7 +34,7 @@ This project was completed as part of an 8-week Infosys Springboard Virtual Inte
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Power BI Desktop** – Data visualization and dashboard development
 - **Power Query Editor** – Data cleaning and transformation
 - **DAX (Data Analysis Expressions)** – KPI and measure creation
@@ -42,7 +42,7 @@ This project was completed as part of an 8-week Infosys Springboard Virtual Inte
 
 ---
 
-## 🧠 Project Workflow
+## Project Workflow
 
 ### 1. Data Preprocessing
 - Handled missing values and duplicates
@@ -76,7 +76,7 @@ Created four interactive dashboards:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Total Revenue exceeded ₹26 million
 - August is the peak revenue month
 - Online Travel Agencies generate the highest revenue
@@ -86,7 +86,7 @@ Created four interactive dashboards:
 
 ---
 
-## 🚧 Challenges Faced
+## Challenges Faced
 - Handling missing and inconsistent data
 - Combining multiple date columns into a single format
 - Designing an efficient data model
@@ -96,7 +96,7 @@ Created four interactive dashboards:
 
 ---
 
-## 📚 Skills Gained
+## Skills Gained
 
 ### Technical Skills
 - Power BI dashboard development
@@ -117,22 +117,7 @@ Created four interactive dashboards:
 
 ---
 
-## 📅 Timeline
-
-| Week | Activity |
-|------|---------|
-| 1 | Project understanding |
-| 2 | Dataset collection and analysis |
-| 3 | Data cleaning and preprocessing |
-| 4 | Data modeling |
-| 5 | DAX calculations and KPIs |
-| 6 | Dashboard development |
-| 7 | Insight generation |
-| 8 | Final review and presentation |
-
----
-
-## 🤝 Team
+## Team
 - A. Vedavarshini  
 - Anwesha Barpanda  
 - V. Sathvik Kumar  
@@ -142,12 +127,12 @@ Created four interactive dashboards:
 
 ---
 
-## 💡 Conclusion
+## Conclusion
 HotelRevAI demonstrates how business intelligence tools like Power BI can convert raw data into meaningful insights. The project highlights practical applications of data analytics in improving revenue performance, optimizing pricing strategies, and enhancing customer understanding.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 We would like to thank Infosys Springboard for providing this internship opportunity and our mentors for their guidance and support throughout the project.
 
 ---
